@@ -1,0 +1,14 @@
+C:\Users\belov\Desktop\projects\MatModeling\MatModelingConsole\bin\Debug\net8.0\MatModelingConsole.exe
+C:\Users\belov\Desktop\projects\MatModeling\MatModelingConsole\bin\Debug\net8.0\MatModelingConsole.deps.json
+C:\Users\belov\Desktop\projects\MatModeling\MatModelingConsole\bin\Debug\net8.0\MatModelingConsole.runtimeconfig.json
+C:\Users\belov\Desktop\projects\MatModeling\MatModelingConsole\bin\Debug\net8.0\MatModelingConsole.dll
+C:\Users\belov\Desktop\projects\MatModeling\MatModelingConsole\bin\Debug\net8.0\MatModelingConsole.pdb
+C:\Users\belov\Desktop\projects\MatModeling\MatModelingConsole\obj\Debug\net8.0\MatModelingConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belov\Desktop\projects\MatModeling\MatModelingConsole\obj\Debug\net8.0\MatModelingConsole.AssemblyInfoInputs.cache
+C:\Users\belov\Desktop\projects\MatModeling\MatModelingConsole\obj\Debug\net8.0\MatModelingConsole.AssemblyInfo.cs
+C:\Users\belov\Desktop\projects\MatModeling\MatModelingConsole\obj\Debug\net8.0\MatModelingConsole.csproj.CoreCompileInputs.cache
+C:\Users\belov\Desktop\projects\MatModeling\MatModelingConsole\obj\Debug\net8.0\MatModelingConsole.dll
+C:\Users\belov\Desktop\projects\MatModeling\MatModelingConsole\obj\Debug\net8.0\refint\MatModelingConsole.dll
+C:\Users\belov\Desktop\projects\MatModeling\MatModelingConsole\obj\Debug\net8.0\MatModelingConsole.pdb
+C:\Users\belov\Desktop\projects\MatModeling\MatModelingConsole\obj\Debug\net8.0\MatModelingConsole.genruntimeconfig.cache
+C:\Users\belov\Desktop\projects\MatModeling\MatModelingConsole\obj\Debug\net8.0\ref\MatModelingConsole.dll
