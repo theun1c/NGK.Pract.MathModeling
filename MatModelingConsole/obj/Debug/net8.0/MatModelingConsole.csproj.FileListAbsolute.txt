@@ -12,3 +12,4 @@ C:\Users\belov\Desktop\projects\MatModeling\MatModelingConsole\obj\Debug\net8.0\
 C:\Users\belov\Desktop\projects\MatModeling\MatModelingConsole\obj\Debug\net8.0\MatModelingConsole.pdb
 C:\Users\belov\Desktop\projects\MatModeling\MatModelingConsole\obj\Debug\net8.0\MatModelingConsole.genruntimeconfig.cache
 C:\Users\belov\Desktop\projects\MatModeling\MatModelingConsole\obj\Debug\net8.0\ref\MatModelingConsole.dll
+C:\Users\belov\Desktop\projects\MatModeling\MatModelingConsole\obj\Debug\net8.0\MatModelingConsole.sourcelink.json
