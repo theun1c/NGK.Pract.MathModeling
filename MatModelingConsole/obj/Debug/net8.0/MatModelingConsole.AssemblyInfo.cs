@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MatModelingConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1005588eecd4a2400407524ea2c9094375445ec0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0be3bd69f18af0df68363580d66e0f227a314627")]
 [assembly: System.Reflection.AssemblyProductAttribute("MatModelingConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MatModelingConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
